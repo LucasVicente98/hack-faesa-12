@@ -72,18 +72,14 @@ Durante o processo de desenvolvimento, aprendemos lições valiosas que moldaram
 
 ## **Melhorias Futuras**
 
-Como parte de nosso compromisso contínuo com a qualidade e inovação, planejamos implementar as seguintes melhorias futuras:
+O projeto, desenvolvido em um curto prazo de 24 horas como parte do Hack Faesa 12.0, representa um protótipo inicial para apresentação.
+Futuras melhorias podem incluir:
 
-- **Implementação do Padrão MVC:** Introdução do padrão Model-View-Controller para melhorar a organização e manutenção do código.
-
-- **Consultas Específicas Adicionais:** Inclusão de consultas específicas para fornecer insights mais detalhados sobre emissões e categorias.
-
-- **Atualização Seletiva de Atributos:** Capacidade de atualizar seletivamente atributos específicos de equipamentos e categorias.
-
-- **Testes Unitários:** Implementação de testes unitários para garantir robustez e identificação precoce de possíveis problemas.
-
-Estas melhorias visam aprimorar significativamente a qualidade, flexibilidade e funcionalidades do *Sistema de Gestão de Emissão de Carbono de Equipamentos*. Agradecemos antecipadamente por qualquer feedback que possa contribuir para o aprimoramento contínuo
-
- deste projeto.
+1. **Interface Gráfica do Usuário (GUI):** Desenvolvimento de uma GUI para visualização intuitiva.
+2. **Integração com Sensores IoT:** Coleta em tempo real de dados de emissão.
+3. **Análise de Dados Avançada:** Implementação de algoritmos preditivos para insights precisos.
+4. **Autenticação e Autorização:** Reforço da segurança com um sistema robusto de autenticação.
+5. **Monitoramento Contínuo:** Adição de funcionalidades para monitoramento em tempo real.
+6. **Relatórios Personalizados:** Capacidade de gerar relatórios adaptados às necessidades específicas.
 
 *Nota: Este projeto é um protótipo inicial desenvolvido durante o Hack Faesa 12.0 e está sujeito a melhorias contínuas.*
