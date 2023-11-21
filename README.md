@@ -44,17 +44,17 @@ O projeto é organizado de maneira modular para facilitar a manutenção e escal
 
 ## **Agradecimentos**
 
-**Nossos agradecimentos especiais a todos que contribuíram para o sucesso deste projeto:**
+**Meus agradecimentos especiais a todos que contribuíram para o sucesso deste projeto:**
 
 - **Vitor**
 - **André**
 - **Icaro**
 
-**Agradecemos também:**
+**Agradeço também:**
 
 - Aos alunos da comissão de organização do evento.
 - À faculdade FAESA.
-- Aos nossos parceiros, Code n' App, Inflor, TecVitoria Incubadora e Vale.
+- Aos parceiros do evento, como Code n' App, Inflor, TecVitoria Incubadora e Vale.
 
 Esta jornada foi possível graças ao esforço coletivo e à colaboração incrível de cada pessoa envolvida.
 
